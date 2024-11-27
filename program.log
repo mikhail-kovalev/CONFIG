@@ -1,0 +1,70 @@
+- A: 36
+  B: 702
+  C: 599
+  bytes:
+  - '0x24'
+  - '0xBE'
+  - '0xE2'
+  - '0x4A'
+  - '0x00'
+  instruction: LOAD_CONST
+- A: 36
+  B: 333
+  C: 276
+  bytes:
+  - '0x24'
+  - '0x4D'
+  - '0x81'
+  - '0x22'
+  - '0x00'
+  instruction: LOAD_CONST
+- A: 36
+  B: 222
+  C: 389
+  bytes:
+  - '0x24'
+  - '0xDE'
+  - '0xA0'
+  - '0x30'
+  - '0x00'
+  instruction: LOAD_CONST
+- A: 36
+  B: 111
+  C: 276
+  bytes:
+  - '0x24'
+  - '0x6F'
+  - '0x80'
+  - '0x22'
+  - '0x00'
+  instruction: LOAD_CONST
+- A: 55
+  B: 276
+  C: 594
+  bytes:
+  - '0x37'
+  - '0x14'
+  - '0x21'
+  - '0x25'
+  - '0x00'
+  instruction: READ_MEM
+- A: 84
+  B: 613
+  C: 34
+  bytes:
+  - '0x54'
+  - '0x65'
+  - '0x22'
+  - '0x02'
+  - '0x00'
+  instruction: WRITE_MEM
+- A: 186
+  B: 389
+  C: 254
+  bytes:
+  - '0xBA'
+  - '0x85'
+  - '0xE1'
+  - '0x0F'
+  - '0x00'
+  instruction: BITREVERSE

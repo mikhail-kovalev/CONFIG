@@ -1,0 +1,72 @@
+user,ls,2024-10-14 02:52:42
+user,pwd,2024-10-14 02:52:48
+user,exit,2024-10-14 02:52:52
+user,exit,2024-10-14 02:52:53
+test_user,ls,2024-10-14 14:27:00
+test_user,-ls,2024-10-14 14:27:03
+test_user,ls -l,2024-10-14 14:27:04
+test_user,chown start.sh user2,2024-10-14 14:27:15
+test_user,ls -l,2024-10-14 14:27:18
+user,ls,2024-10-14 17:27:41
+user,cd start.sh,2024-10-14 17:27:46
+user,cd target,2024-10-14 17:27:54
+user,exit,2024-10-14 17:27:57
+user,exit,2024-10-14 17:28:01
+user,exit,2024-10-14 17:28:05
+user,ls,2024-10-14 17:28:17
+user,uniq file2.txt,2024-10-14 17:28:21
+user,cd subdir1,2024-10-14 17:29:03
+user,cd  ls,2024-10-14 17:29:10
+user,ls,2024-10-14 17:29:15
+user,uniq file1.txt,2024-10-14 17:29:22
+user,chown file1.txt user2,2024-10-14 17:29:29
+user,ls,2024-10-14 17:29:31
+user,chown file1.txt,2024-10-14 17:29:35
+user,chown file1.txt,2024-10-14 17:29:36
+user,chown file1.txt user2,2024-10-14 17:29:39
+user,ls -l,2024-10-14 17:29:42
+test_user,ls,2024-10-14 17:40:31
+test_user,chown file2.txt user2,2024-10-14 17:40:38
+test_user,ls,2024-10-14 17:40:40
+user,ls,2024-10-14 21:57:44
+user,chown file2.txt user2,2024-10-14 21:57:53
+user,ls,2024-10-14 21:57:55
+user,exit,2024-10-14 21:58:15
+user,ls,2024-10-14 21:58:19
+user,uniq file2.txt,2024-10-14 21:58:22
+user,exit,2024-10-14 21:58:24
+test_user,"& C:/Users/kirin/AppData/Local/Microsoft/WindowsApps/python3.11.exe ""c:/Users/kirin/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Visual Studio Code/ShellEmulator/target/classes/shell_emulator_gui.py""",2024-10-27 13:16:31
+test_user,"& C:/Users/kirin/AppData/Local/Microsoft/WindowsApps/python3.11.exe ""c:/Users/kirin/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Visual Studio Code/ShellEmulator/target/classes/shell_emulator_gui.py""",2024-10-27 13:16:34
+test_user,"& C:/Users/kirin/AppData/Local/Microsoft/WindowsApps/python3.11.exe ""c:/Users/kirin/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Visual Studio Code/ShellEmulator/target/classes/shell_emulator_gui.py""",2024-10-27 13:16:40
+test_user,exit,2024-10-27 13:16:48
+user,example --> dep1,2024-10-27 13:17:41
+user,exit,2024-10-27 13:17:49
+user,pwd,2024-10-27 13:48:43
+user,ls,2024-10-27 13:48:50
+user,uniq file2.txt,2024-10-27 13:49:07
+user,cd subdir1,2024-10-27 13:50:06
+user,ls,2024-10-27 13:50:08
+user,uniq file1.txt,2024-10-27 13:50:14
+user,exit,2024-10-27 13:56:35
+user,ls,2024-10-27 14:06:39
+user,pwd,2024-10-27 14:06:41
+user,uniq file2.txt,2024-10-27 14:06:48
+user,chown file2.txt user2,2024-10-27 14:06:55
+user,ls,2024-10-27 14:06:58
+user,cd subdir1,2024-10-27 14:07:08
+user,ls,2024-10-27 14:07:10
+user,pwd,2024-10-27 14:07:12
+user,uniq file1.txt,2024-10-27 14:07:22
+user,exit,2024-10-27 14:07:24
+user,ls,2024-11-18 12:59:11
+user,chown user2 file2.txt,2024-11-18 12:59:55
+user,chown file2.txt user2,2024-11-18 13:00:03
+user,ls,2024-11-18 13:00:05
+user,pwd,2024-11-18 13:00:09
+user,uniq file2.txt,2024-11-18 13:00:18
+user,cd  subdir1,2024-11-18 13:00:27
+user,ls,2024-11-18 13:00:29
+user,pwd,2024-11-18 13:00:31
+user,exit,2024-11-18 13:05:44
+user,exit,2024-11-18 13:05:45
+user,exit,2024-11-27 18:56:23

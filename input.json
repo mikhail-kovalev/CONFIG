@@ -1,0 +1,18 @@
+{
+    "comment": "Single line",
+    "multi_comment": [
+        "Multiple",
+        "lines"
+    ],
+    "const": {
+        "num1": 45,
+        "str1": "This is line",
+        "array1": [1, 2, 3]
+    },
+    "array_value": "list(1, 2, 3)",
+    "expression_addition": "${+ num1 1}",
+    "expression_subtraction": "${- num1 5}",
+    "expression_multiplication": "${* num1 2}",
+    "concat_example": "${concat str1 [[ - example]]}",
+    "ord_example": "${ord str1}"
+}

@@ -1,0 +1,14 @@
+|| Single line
+=begin
+Multiple
+lines
+=cut
+const num1 = 45
+const str1 = [[This is line]]
+const array1 = list(1, 2, 3)
+array_value = list(1, 2, 3)
+expression_addition = 46
+expression_subtraction = 40
+expression_multiplication = 90
+concat_example = [[This is line[[-example]]]]
+ord_example = 84
