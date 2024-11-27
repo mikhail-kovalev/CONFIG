@@ -1,6 +1,6 @@
 Тест 2: 
 
-         python3 dependency_visualizer.py --path-to-visualizer C:\Users\kirin\AppData\Roaming\npm\mmdc.cmd --package-name pandas --output-file pandas_dependencies.png --max-depth 3
+         python dependency_visualizer.py --path-to-visualizer ""C:\Users\kirin\AppData\Roaming\npm\mmdc.cmd"" --package-name "tensorflow" --output-file "tensorflow_dependencies2.png" --max-depth 2
 
 Тест 3: 
 
